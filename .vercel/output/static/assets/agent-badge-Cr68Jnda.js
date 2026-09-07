@@ -1,0 +1,1 @@
+import{_ as e}from"./format-BVTUfUE4.js";import{t}from"./badge-CV001XxQ.js";var n=e();function r({reco:e}){return(0,n.jsx)(t,{tone:e===`BUY`?`buy`:e===`SELL`?`sell`:`hold`,children:e})}export{r as t};

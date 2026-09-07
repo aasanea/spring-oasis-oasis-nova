@@ -1,0 +1,36 @@
+{
+  "url": "http://127.0.0.1:8080/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Abdullah BANK",
+      "hasCanvas": false,
+      "bodyTextLen": 3870,
+      "bodyTextHash": "4252851263514c78dbfc1cd701d3eef253be172549475dcb112c17cbcf66e1cd",
+      "bodyTextPrefix": "عبدالله BANK · LIVE TAPE Desk المكتب Agents الوكلاء Portfolio ال",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Abdullah BANK",
+      "hasCanvas": false,
+      "bodyTextLen": 3662,
+      "bodyTextHash": "f810d7769671fae65ce6d9d1d547f5e7360b710f706bed5fc235c0c7cf75b4a5",
+      "bodyTextPrefix": "عبدالله بنك LIVE DESK EQUITY SAR 1.0M Live TASI last · paper fil",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-preview-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-preview.json"
+}
